@@ -1,0 +1,64 @@
+
+
+    body {
+        background-color: white(255, 255, 255);
+    }
+
+    h1 {
+        color: black;
+        text-decoration: underline;
+    }
+
+    p {
+        font-size: 16px;
+        font-family: 'Times New Roman', Times, serif;
+        
+    
+    }
+    .red{
+        color: red;
+    }
+
+    .green {
+        color: green;
+    }
+
+    .blue {
+        color: blue;
+    }
+
+    .bigtxt {
+        font-size: 24px;
+    }
+
+    .tinytxt {
+        font-size: 8px;
+    }
+
+    .centeredtxt{
+        text-align: center;
+    }
+
+    .bold{
+        font-weight: bold;
+    }
+    
+    .change1{
+        font-family: cursive;
+    }
+    .multiatt{
+        font-family: 'Times New Roman', Times, serif;
+        color: orange;
+        font-weight: bold;
+        font-size: 24px;
+    }
+
+    .styledFont{
+        color: green;
+        font-weight: bold;
+        font-size: 20px;
+        font-family: cursive;
+    }
+    #styledImage{
+    border: 5px solid yellow;
+    }
